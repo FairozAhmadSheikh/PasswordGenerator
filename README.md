@@ -3,7 +3,7 @@ This is a simple React application that generates random passwords based on user
 
 <h3>Getting Started</h3>
 To run this project, follow these steps:
-Clone the repository to your local machine.
+Clone the repository to your local machine.<br/>
 ``git clone https://github.com/your-username/password-generator.git``
 
 <h4>Navigate to the project directory.</h4>
